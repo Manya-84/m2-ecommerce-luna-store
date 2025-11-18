@@ -1,5 +1,7 @@
 # Luna Store · Frontend e-commerce
 
+Repositorio público: **https://github.com/Manya-84/m2-ecommerce-luna-store**.
+
 Interfaz responsiva creada como parte del portafolio del módulo 2 del Curso de JavaScript. El objetivo es maquetar la experiencia de una tienda sustentable llamada **Luna Store**, contemplando una página principal con listado de productos y una página individual de detalle.
 
 Durante el desarrollo se reforzaron tres aspectos clave:
