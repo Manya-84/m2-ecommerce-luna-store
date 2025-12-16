@@ -319,6 +319,9 @@ function renderCartUI() {
 
   // Si el carrito está vacío
   if (carrito.length === 0) {
+    // Limpiar el contenedor de items
+    cartItemsContainer.innerHTML = '';
+
     if (cartEmptyMessage) {
       cartEmptyMessage.style.display = "block";
     }
